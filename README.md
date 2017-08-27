@@ -20,7 +20,7 @@ Installing keras:
 
 1. Add the files in *training_set* and *test_set*
 
-2. Run ```python transfer.py --nb_epoch 5 --batch_size 320 --plot --output_model-file filename.model ```
+2. Run ```python transfer.py --nb_epoch 5 --batch_size 320 --plot --output_model_file filename.model ```
 
 3. Later use the saved weights to predict any Image of cat or dog from the Internet or saved Images.
 
